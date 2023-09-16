@@ -1,0 +1,2 @@
+# learngo
+Learn Go stuff
